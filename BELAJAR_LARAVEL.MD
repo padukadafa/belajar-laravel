@@ -68,7 +68,7 @@ Laravel adalah framework PHP modern berbasis MVC (Model View Controller). Larave
 ### Perintah Instalasi:
 
 ```bash
-composer create-project laravel/laravel:^12.0 nama-proyek
+composer create-project laravel/laravel nama-proyek
 ```
 
 ### Jalankan Server:
